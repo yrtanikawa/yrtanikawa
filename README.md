@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Mahana Ogaki(Work continuation support type a business establishment).
 - 🌱 I’m currently learning FE(Fundamental Information Technology Engineer Examination).
-- ✨ I’m challenging competitive programming with AtCoder.(As of/2/2 rate418)
+- ✨ I’m challenging competitive programming with AtCoder.(As of2022/2/2 rate418)
