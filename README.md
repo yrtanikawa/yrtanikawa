@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋, I'm TANIKAWA.
 
 <!--
 **yrtanikawa/yrtanikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Mahana Ogaki(Work continuation support type a business establishment).
+- 🌱 I’m currently learning FE(Fundamental Information Technology Engineer Examination).
+- ✨ I’m challenging competitive programming with AtCoder.(As of/2/2 rate418)
